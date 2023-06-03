@@ -1,0 +1,15 @@
+C:\Users\Kaminski\Documents\Codes\C# Projects\Beecrowd\1072\obj\Debug\net8.0\1072.csproj.AssemblyReference.cache
+C:\Users\Kaminski\Documents\Codes\C# Projects\Beecrowd\1072\obj\Debug\net8.0\1072.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaminski\Documents\Codes\C# Projects\Beecrowd\1072\obj\Debug\net8.0\1072.AssemblyInfoInputs.cache
+C:\Users\Kaminski\Documents\Codes\C# Projects\Beecrowd\1072\obj\Debug\net8.0\1072.AssemblyInfo.cs
+C:\Users\Kaminski\Documents\Codes\C# Projects\Beecrowd\1072\obj\Debug\net8.0\1072.csproj.CoreCompileInputs.cache
+C:\Users\Kaminski\Documents\Codes\C# Projects\Beecrowd\1072\bin\Debug\net8.0\1072.exe
+C:\Users\Kaminski\Documents\Codes\C# Projects\Beecrowd\1072\bin\Debug\net8.0\1072.deps.json
+C:\Users\Kaminski\Documents\Codes\C# Projects\Beecrowd\1072\bin\Debug\net8.0\1072.runtimeconfig.json
+C:\Users\Kaminski\Documents\Codes\C# Projects\Beecrowd\1072\bin\Debug\net8.0\1072.dll
+C:\Users\Kaminski\Documents\Codes\C# Projects\Beecrowd\1072\bin\Debug\net8.0\1072.pdb
+C:\Users\Kaminski\Documents\Codes\C# Projects\Beecrowd\1072\obj\Debug\net8.0\1072.dll
+C:\Users\Kaminski\Documents\Codes\C# Projects\Beecrowd\1072\obj\Debug\net8.0\refint\1072.dll
+C:\Users\Kaminski\Documents\Codes\C# Projects\Beecrowd\1072\obj\Debug\net8.0\1072.pdb
+C:\Users\Kaminski\Documents\Codes\C# Projects\Beecrowd\1072\obj\Debug\net8.0\1072.genruntimeconfig.cache
+C:\Users\Kaminski\Documents\Codes\C# Projects\Beecrowd\1072\obj\Debug\net8.0\ref\1072.dll

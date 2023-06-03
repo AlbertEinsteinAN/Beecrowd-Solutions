@@ -1,0 +1,15 @@
+C:\Users\Kaminski\Documents\Codes\C# Projects\Beecrowd\1064\bin\Debug\net8.0\1064.exe
+C:\Users\Kaminski\Documents\Codes\C# Projects\Beecrowd\1064\bin\Debug\net8.0\1064.deps.json
+C:\Users\Kaminski\Documents\Codes\C# Projects\Beecrowd\1064\bin\Debug\net8.0\1064.runtimeconfig.json
+C:\Users\Kaminski\Documents\Codes\C# Projects\Beecrowd\1064\bin\Debug\net8.0\1064.dll
+C:\Users\Kaminski\Documents\Codes\C# Projects\Beecrowd\1064\bin\Debug\net8.0\1064.pdb
+C:\Users\Kaminski\Documents\Codes\C# Projects\Beecrowd\1064\obj\Debug\net8.0\1064.csproj.AssemblyReference.cache
+C:\Users\Kaminski\Documents\Codes\C# Projects\Beecrowd\1064\obj\Debug\net8.0\1064.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaminski\Documents\Codes\C# Projects\Beecrowd\1064\obj\Debug\net8.0\1064.AssemblyInfoInputs.cache
+C:\Users\Kaminski\Documents\Codes\C# Projects\Beecrowd\1064\obj\Debug\net8.0\1064.AssemblyInfo.cs
+C:\Users\Kaminski\Documents\Codes\C# Projects\Beecrowd\1064\obj\Debug\net8.0\1064.csproj.CoreCompileInputs.cache
+C:\Users\Kaminski\Documents\Codes\C# Projects\Beecrowd\1064\obj\Debug\net8.0\1064.dll
+C:\Users\Kaminski\Documents\Codes\C# Projects\Beecrowd\1064\obj\Debug\net8.0\refint\1064.dll
+C:\Users\Kaminski\Documents\Codes\C# Projects\Beecrowd\1064\obj\Debug\net8.0\1064.pdb
+C:\Users\Kaminski\Documents\Codes\C# Projects\Beecrowd\1064\obj\Debug\net8.0\1064.genruntimeconfig.cache
+C:\Users\Kaminski\Documents\Codes\C# Projects\Beecrowd\1064\obj\Debug\net8.0\ref\1064.dll

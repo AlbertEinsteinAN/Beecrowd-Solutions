@@ -1,0 +1,15 @@
+C:\Users\Kaminski\Documents\Codes\C# Projects\Beecrowd\1071\bin\Debug\net8.0\1071.exe
+C:\Users\Kaminski\Documents\Codes\C# Projects\Beecrowd\1071\bin\Debug\net8.0\1071.deps.json
+C:\Users\Kaminski\Documents\Codes\C# Projects\Beecrowd\1071\bin\Debug\net8.0\1071.runtimeconfig.json
+C:\Users\Kaminski\Documents\Codes\C# Projects\Beecrowd\1071\bin\Debug\net8.0\1071.dll
+C:\Users\Kaminski\Documents\Codes\C# Projects\Beecrowd\1071\bin\Debug\net8.0\1071.pdb
+C:\Users\Kaminski\Documents\Codes\C# Projects\Beecrowd\1071\obj\Debug\net8.0\1071.csproj.AssemblyReference.cache
+C:\Users\Kaminski\Documents\Codes\C# Projects\Beecrowd\1071\obj\Debug\net8.0\1071.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaminski\Documents\Codes\C# Projects\Beecrowd\1071\obj\Debug\net8.0\1071.AssemblyInfoInputs.cache
+C:\Users\Kaminski\Documents\Codes\C# Projects\Beecrowd\1071\obj\Debug\net8.0\1071.AssemblyInfo.cs
+C:\Users\Kaminski\Documents\Codes\C# Projects\Beecrowd\1071\obj\Debug\net8.0\1071.csproj.CoreCompileInputs.cache
+C:\Users\Kaminski\Documents\Codes\C# Projects\Beecrowd\1071\obj\Debug\net8.0\1071.dll
+C:\Users\Kaminski\Documents\Codes\C# Projects\Beecrowd\1071\obj\Debug\net8.0\refint\1071.dll
+C:\Users\Kaminski\Documents\Codes\C# Projects\Beecrowd\1071\obj\Debug\net8.0\1071.pdb
+C:\Users\Kaminski\Documents\Codes\C# Projects\Beecrowd\1071\obj\Debug\net8.0\1071.genruntimeconfig.cache
+C:\Users\Kaminski\Documents\Codes\C# Projects\Beecrowd\1071\obj\Debug\net8.0\ref\1071.dll
