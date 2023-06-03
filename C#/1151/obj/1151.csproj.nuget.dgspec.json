@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kaminski\\Documents\\Codes\\C# Projects\\Beecrowd\\1151\\1151.csproj": {}
+    "C:\\Users\\Kaminski\\Documents\\GitHub\\Beecrowd-Solutions\\C#\\1151\\1151.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kaminski\\Documents\\Codes\\C# Projects\\Beecrowd\\1151\\1151.csproj": {
+    "C:\\Users\\Kaminski\\Documents\\GitHub\\Beecrowd-Solutions\\C#\\1151\\1151.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kaminski\\Documents\\Codes\\C# Projects\\Beecrowd\\1151\\1151.csproj",
+        "projectUniqueName": "C:\\Users\\Kaminski\\Documents\\GitHub\\Beecrowd-Solutions\\C#\\1151\\1151.csproj",
         "projectName": "1151",
-        "projectPath": "C:\\Users\\Kaminski\\Documents\\Codes\\C# Projects\\Beecrowd\\1151\\1151.csproj",
+        "projectPath": "C:\\Users\\Kaminski\\Documents\\GitHub\\Beecrowd-Solutions\\C#\\1151\\1151.csproj",
         "packagesPath": "C:\\Users\\Kaminski\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kaminski\\Documents\\Codes\\C# Projects\\Beecrowd\\1151\\obj\\",
+        "outputPath": "C:\\Users\\Kaminski\\Documents\\GitHub\\Beecrowd-Solutions\\C#\\1151\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kaminski\\AppData\\Roaming\\NuGet\\NuGet.Config",
