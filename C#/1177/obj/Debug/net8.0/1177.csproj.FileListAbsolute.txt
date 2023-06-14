@@ -1,0 +1,15 @@
+C:\Users\Kaminski\Documents\GitHub\Beecrowd-Solutions\C#\1177\obj\Debug\net8.0\1177.csproj.AssemblyReference.cache
+C:\Users\Kaminski\Documents\GitHub\Beecrowd-Solutions\C#\1177\obj\Debug\net8.0\1177.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaminski\Documents\GitHub\Beecrowd-Solutions\C#\1177\obj\Debug\net8.0\1177.AssemblyInfoInputs.cache
+C:\Users\Kaminski\Documents\GitHub\Beecrowd-Solutions\C#\1177\obj\Debug\net8.0\1177.AssemblyInfo.cs
+C:\Users\Kaminski\Documents\GitHub\Beecrowd-Solutions\C#\1177\obj\Debug\net8.0\1177.csproj.CoreCompileInputs.cache
+C:\Users\Kaminski\Documents\GitHub\Beecrowd-Solutions\C#\1177\bin\Debug\net8.0\1177.exe
+C:\Users\Kaminski\Documents\GitHub\Beecrowd-Solutions\C#\1177\bin\Debug\net8.0\1177.deps.json
+C:\Users\Kaminski\Documents\GitHub\Beecrowd-Solutions\C#\1177\bin\Debug\net8.0\1177.runtimeconfig.json
+C:\Users\Kaminski\Documents\GitHub\Beecrowd-Solutions\C#\1177\bin\Debug\net8.0\1177.dll
+C:\Users\Kaminski\Documents\GitHub\Beecrowd-Solutions\C#\1177\bin\Debug\net8.0\1177.pdb
+C:\Users\Kaminski\Documents\GitHub\Beecrowd-Solutions\C#\1177\obj\Debug\net8.0\1177.dll
+C:\Users\Kaminski\Documents\GitHub\Beecrowd-Solutions\C#\1177\obj\Debug\net8.0\refint\1177.dll
+C:\Users\Kaminski\Documents\GitHub\Beecrowd-Solutions\C#\1177\obj\Debug\net8.0\1177.pdb
+C:\Users\Kaminski\Documents\GitHub\Beecrowd-Solutions\C#\1177\obj\Debug\net8.0\1177.genruntimeconfig.cache
+C:\Users\Kaminski\Documents\GitHub\Beecrowd-Solutions\C#\1177\obj\Debug\net8.0\ref\1177.dll
