@@ -1,81 +1,71 @@
-using System;
+﻿using System;
 
 namespace Beecrowd
 {
     class Problem1045
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            string[] input = Console.ReadLine().Split(' ');
+            double a, b, c, maior, menor, meio;
+            string[] inputs = Console.ReadLine().Split(' ');
+            a = double.Parse(inputs[0]);
+            b = double.Parse(inputs[1]);
+            c = double.Parse(inputs[2]);
 
-            double n1 = double.Parse(input[0], CultureInfo.InvariantCulture);
-            double n2 = double.Parse(input[1], CultureInfo.InvariantCulture);
-            double n3 = double.Parse(input[2], CultureInfo.InvariantCulture);
-
-            double a = Math.Max(Math.Max(n1, n2), n3);
-            double c = Math.Min(Math.Min(n1, n2), n3);
-            double b = 0;
-            
-            if (n1 != a && n1 != c)
+            if (a >= b && a >= c)
             {
-                b = n1;
+                maior = a;
+                meio = b;
+                menor = c;
             }
-            else if (n2 != a && n2 != c)
+            else if (b >= a && b >= c)
             {
-                b = n2;
-            }
-            else if (n3 != a && n3 != c)
-            {
-                b = n3;
+                maior = b;
+                meio = a;
+                menor = c;
             }
             else
             {
-                b = Math.Min(Math.Min(n1, n2), n3);
+                maior = c;
+                meio = a;
+                menor = b;
             }
 
-            double a2 = Math.Pow(a, 2);
-            double b2 = Math.Pow(b, 2);
-            double c2 = Math.Pow(c, 2);
-
-
-            if (a == 0 || b == 0 || c == 0)
-            {
-                return;
-            }
-
-            if (a >= b + c)
+            if (maior >= meio + menor)
             {
                 Console.WriteLine("NAO FORMA TRIANGULO");
             }
-            
             else
             {
-                if (a2 == b2 + c2)
+                if (maior * maior == meio * meio + menor * menor)
                 {
                     Console.WriteLine("TRIANGULO RETANGULO");
                 }
-
-                else if (a2 > b2 + c2)
+                if (maior * maior > meio * meio + menor * menor)
                 {
-                    Console.WriteLine("TRIANGULO OBTUSANGULO");              
+                    Console.WriteLine("TRIANGULO OBTUSANGULO");
                 }
-                
-                else if (a2 < b2 + c2)
+                if (maior * maior < meio * meio + menor * menor)
                 {
                     Console.WriteLine("TRIANGULO ACUTANGULO");
                 }
-
-                else if (a == b && b == c)
+                if (maior == meio && maior == menor)
                 {
                     Console.WriteLine("TRIANGULO EQUILATERO");
                 }
-                
-                else if ((a == b && b != c) || (a == c && c != b) || (c == b && b != a))
+                if (maior == meio && maior != menor && menor != meio)
+                {
+                    Console.WriteLine("TRIANGULO ISOSCELES");
+                }
+                if (meio == menor && maior != meio && maior != menor)
+                {
+                    Console.WriteLine("TRIANGULO ISOSCELES");
+                }
+                if (maior == menor && menor != meio && maior != meio)
                 {
                     Console.WriteLine("TRIANGULO ISOSCELES");
                 }
             }
-            
         }
     }
 }
