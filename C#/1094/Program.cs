@@ -37,7 +37,7 @@ namespace Beecrowd
 
             double percentageRabbits = (Rabbits / Animals) * 100;
             double percentageRats = (Rats / Animals) * 100;
-            double percentualFrogs = (Frogs / Animals) * 100;
+            double percentageFrogs = (Frogs / Animals) * 100;
 
             Console.WriteLine($"Total: {Animals} cobaias");
             Console.WriteLine($"Total de coelhos: {Rabbits}");
@@ -45,7 +45,7 @@ namespace Beecrowd
             Console.WriteLine($"Total de sapos: {Frogs}");
             Console.WriteLine($"Percentual de coelhos: {percentageRabbits.ToString("F2", culture)} %");
             Console.WriteLine($"Percentual de ratos: {percentageRats.ToString("F2", culture)} %");
-            Console.WriteLine($"Percentual de sapos: {percentualFrogs.ToString("F2", culture)} %");
+            Console.WriteLine($"Percentual de sapos: {percentageFrogs.ToString("F2", culture)} %");
         }
     }
 }
