@@ -1,0 +1,15 @@
+C:\Users\Kaminski\Documents\GitHub\Beecrowd-Solutions\C#\1000\bin\Debug\net8.0\1000.exe
+C:\Users\Kaminski\Documents\GitHub\Beecrowd-Solutions\C#\1000\bin\Debug\net8.0\1000.deps.json
+C:\Users\Kaminski\Documents\GitHub\Beecrowd-Solutions\C#\1000\bin\Debug\net8.0\1000.runtimeconfig.json
+C:\Users\Kaminski\Documents\GitHub\Beecrowd-Solutions\C#\1000\bin\Debug\net8.0\1000.dll
+C:\Users\Kaminski\Documents\GitHub\Beecrowd-Solutions\C#\1000\bin\Debug\net8.0\1000.pdb
+C:\Users\Kaminski\Documents\GitHub\Beecrowd-Solutions\C#\1000\obj\Debug\net8.0\1000.csproj.AssemblyReference.cache
+C:\Users\Kaminski\Documents\GitHub\Beecrowd-Solutions\C#\1000\obj\Debug\net8.0\1000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaminski\Documents\GitHub\Beecrowd-Solutions\C#\1000\obj\Debug\net8.0\1000.AssemblyInfoInputs.cache
+C:\Users\Kaminski\Documents\GitHub\Beecrowd-Solutions\C#\1000\obj\Debug\net8.0\1000.AssemblyInfo.cs
+C:\Users\Kaminski\Documents\GitHub\Beecrowd-Solutions\C#\1000\obj\Debug\net8.0\1000.csproj.CoreCompileInputs.cache
+C:\Users\Kaminski\Documents\GitHub\Beecrowd-Solutions\C#\1000\obj\Debug\net8.0\1000.dll
+C:\Users\Kaminski\Documents\GitHub\Beecrowd-Solutions\C#\1000\obj\Debug\net8.0\refint\1000.dll
+C:\Users\Kaminski\Documents\GitHub\Beecrowd-Solutions\C#\1000\obj\Debug\net8.0\1000.pdb
+C:\Users\Kaminski\Documents\GitHub\Beecrowd-Solutions\C#\1000\obj\Debug\net8.0\1000.genruntimeconfig.cache
+C:\Users\Kaminski\Documents\GitHub\Beecrowd-Solutions\C#\1000\obj\Debug\net8.0\ref\1000.dll
