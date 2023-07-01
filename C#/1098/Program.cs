@@ -21,7 +21,6 @@ namespace Beecrowd
                         numberI = numberI.Substring(0, numberI.Length - 2);
                     if (numberJ.EndsWith(".0"))
                         numberJ = numberJ.Substring(0, numberJ.Length - 2);
-
                     Console.WriteLine($"I={numberI} J={numberJ}");
                 }
             }
