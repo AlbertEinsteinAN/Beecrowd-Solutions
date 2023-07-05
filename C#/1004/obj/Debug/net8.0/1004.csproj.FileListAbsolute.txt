@@ -1,0 +1,15 @@
+C:\Users\Kaminski\Documents\GitHub\Beecrowd-Solutions\C#\1004\bin\Debug\net8.0\1004.exe
+C:\Users\Kaminski\Documents\GitHub\Beecrowd-Solutions\C#\1004\bin\Debug\net8.0\1004.deps.json
+C:\Users\Kaminski\Documents\GitHub\Beecrowd-Solutions\C#\1004\bin\Debug\net8.0\1004.runtimeconfig.json
+C:\Users\Kaminski\Documents\GitHub\Beecrowd-Solutions\C#\1004\bin\Debug\net8.0\1004.dll
+C:\Users\Kaminski\Documents\GitHub\Beecrowd-Solutions\C#\1004\bin\Debug\net8.0\1004.pdb
+C:\Users\Kaminski\Documents\GitHub\Beecrowd-Solutions\C#\1004\obj\Debug\net8.0\1004.csproj.AssemblyReference.cache
+C:\Users\Kaminski\Documents\GitHub\Beecrowd-Solutions\C#\1004\obj\Debug\net8.0\1004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaminski\Documents\GitHub\Beecrowd-Solutions\C#\1004\obj\Debug\net8.0\1004.AssemblyInfoInputs.cache
+C:\Users\Kaminski\Documents\GitHub\Beecrowd-Solutions\C#\1004\obj\Debug\net8.0\1004.AssemblyInfo.cs
+C:\Users\Kaminski\Documents\GitHub\Beecrowd-Solutions\C#\1004\obj\Debug\net8.0\1004.csproj.CoreCompileInputs.cache
+C:\Users\Kaminski\Documents\GitHub\Beecrowd-Solutions\C#\1004\obj\Debug\net8.0\1004.dll
+C:\Users\Kaminski\Documents\GitHub\Beecrowd-Solutions\C#\1004\obj\Debug\net8.0\refint\1004.dll
+C:\Users\Kaminski\Documents\GitHub\Beecrowd-Solutions\C#\1004\obj\Debug\net8.0\1004.pdb
+C:\Users\Kaminski\Documents\GitHub\Beecrowd-Solutions\C#\1004\obj\Debug\net8.0\1004.genruntimeconfig.cache
+C:\Users\Kaminski\Documents\GitHub\Beecrowd-Solutions\C#\1004\obj\Debug\net8.0\ref\1004.dll
