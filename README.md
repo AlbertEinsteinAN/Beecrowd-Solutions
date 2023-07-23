@@ -1,6 +1,7 @@
 # Beecrowd Solutions
-
-# In Progress:
+```
+In Progress:
+```
 💻 ©️ #️⃣ All solutions of C# in the Beecrowd website
 
 You can try to solve all problems in any language in the website bellow:
