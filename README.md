@@ -7,4 +7,4 @@ You can try to solve all problems in any language in the website bellow:
 https://www.beecrowd.com.br/judge/en/problems/all
 
 You need to have an account in the website above to see the descriptions of the problems that I solved in C#. ⚒️
-The problems in C# that I solved is into the folder C#. Into these folders have a code refering the problem in Beecrowd website.
+The problems in C# that I solved is into the "Problems" folder. Into this folder have a code refering to the problem of Beecrowd website.
