@@ -1,4 +1,5 @@
 #VS Code
+*.vscode
 
 #Main folder
 bin/*
