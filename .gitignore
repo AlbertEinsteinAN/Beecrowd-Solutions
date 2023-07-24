@@ -25,5 +25,7 @@ apphost
 *.assets
 
 #Folders
-Problems/*
+Problems/*/
 !Problems/*.cs
+!Problems/*/*.cs
+!Problems/*/*/*.cs
