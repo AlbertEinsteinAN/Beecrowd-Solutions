@@ -23,9 +23,3 @@ apphost
 *.props
 *.targets
 *.assets
-
-#Folders
-Problems/*/
-!Problems/*.cs
-!Problems/*/*.cs
-!Problems/*/*/*.cs
