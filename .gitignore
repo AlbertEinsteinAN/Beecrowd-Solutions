@@ -25,4 +25,6 @@ apphost
 *.assets
 
 #Folders
-Beecrowd/*
+[Pp]roblems/*
+Program.cs
+*.cs
