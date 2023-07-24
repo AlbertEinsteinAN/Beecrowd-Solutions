@@ -25,6 +25,7 @@ apphost
 *.assets
 
 #Folders
+[Pp]roblems/
 [Pp]roblems/*
 Program.cs
 *.cs
