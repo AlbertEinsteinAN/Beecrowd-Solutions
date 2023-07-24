@@ -17,6 +17,7 @@ obj/
 *.g
 *.pdb
 apphost
+*.exe
 
 #\obj
 *.dgspec
