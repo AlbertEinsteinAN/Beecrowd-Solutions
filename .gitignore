@@ -1,5 +1,6 @@
 #VS Code
 *.vscode
+*.json
 
 #Main folder
 bin/*
@@ -22,3 +23,6 @@ apphost
 *.props
 *.targets
 *.assets
+
+#Folders
+[0-9][0-9][0-9][0-9]/*
