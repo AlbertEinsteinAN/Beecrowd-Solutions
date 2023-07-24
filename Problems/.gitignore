@@ -1,0 +1,23 @@
+#VS Code
+
+#Main folder
+bin/*
+obj/
+*.csproj
+
+#\obj\Debug\net8.0
+*.dll
+*.AssemblyAttributes
+*.AssemblyInfo
+*.cache
+*.FileListAbsolute
+*.GeneratedMSBuildEditorConfig
+*.g
+*.pdb
+apphost
+
+#\obj
+*.dgspec
+*.props
+*.targets
+*.assets
