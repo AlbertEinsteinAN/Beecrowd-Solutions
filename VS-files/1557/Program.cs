@@ -1,63 +1,67 @@
 ﻿using System;
 
-class Program
+namespace Beecrowd
 {
-    static void Main(string[] args)
+    class Problem1557
     {
-        int order;
-
-        while ((order = int.Parse(Console.ReadLine())) != 0)
+        static void Main(string[] args)
         {
-            int[,] array = GeneratePowerArray(order);
-            PrintFormattedArray(array);
-            Console.WriteLine();
-        }
-    }
+            int order;
 
-    static int[,] GeneratePowerArray(int order)
-    {
-        int[,] array = new int[order, order];
-
-        for (int row = 0; row < order; row++)
-        {
-            for (int col = 0; col < order; col++)
+            while ((order = int.Parse(Console.ReadLine())) != 0)
             {
-                array[row, col] = (int)Math.Pow(2, row + col);
+                int[,] array = GeneratePowerArray(order);
+                PrintFormattedArray(array);
+                Console.WriteLine();
             }
         }
 
-        return array;
-    }
-
-    static void PrintFormattedArray(int[,] array)
-    {
-        int maxDigits = GetMaxDigits(array);
-
-        for (int row = 0; row < array.GetLength(0); row++)
+        static int[,] GeneratePowerArray(int order)
         {
-            for (int col = 0; col < array.GetLength(1); col++)
+            int[,] array = new int[order, order];
+
+            for (int row = 0; row < order; row++)
             {
-                string formattedNumber = array[row, col].ToString().PadLeft(maxDigits);
-                string separator = col == array.GetLength(1) - 1 ? "" : " ";
-                Console.Write(formattedNumber + separator);
+                for (int col = 0; col < order; col++)
+                {
+                    array[row, col] = (int)Math.Pow(2, row + col);
+                }
             }
-            Console.WriteLine();
+
+            return array;
+        }
+
+        static void PrintFormattedArray(int[,] array)
+        {
+            int maxDigits = GetMaxDigits(array);
+
+            for (int row = 0; row < array.GetLength(0); row++)
+            {
+                for (int col = 0; col < array.GetLength(1); col++)
+                {
+                    string formattedNumber = array[row, col].ToString().PadLeft(maxDigits);
+                    string separator = col == array.GetLength(1) - 1 ? "" : " ";
+                    Console.Write(formattedNumber + separator);
+                }
+                Console.WriteLine();
+            }
+        }
+
+        static int GetMaxDigits(int[,] array)
+        {
+            int maxDigits = 0;
+
+            foreach (int num in array)
+            {
+                int digits = (int)Math.Log10(num) + 1;
+                if (digits > maxDigits)
+                {
+                    maxDigits = digits;
+                }
+            }
+
+            return maxDigits;
         }
     }
 
-    static int GetMaxDigits(int[,] array)
-    {
-        int maxDigits = 0;
-
-        foreach (int num in array)
-        {
-            int digits = (int)Math.Log10(num) + 1;
-            if (digits > maxDigits)
-            {
-                maxDigits = digits;
-            }
-        }
-
-        return maxDigits;
-    }
 }
