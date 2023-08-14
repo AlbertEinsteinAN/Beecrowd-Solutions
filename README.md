@@ -1,13 +1,15 @@
-# Beecrowd Solutions
-💻 Complete C# Problem-Solving: My Beecrowd Solutions Collection (In Progress) 🚀
+# Beecrowd Problem-Solving Solutions 🐝
 
-I intend to solve problems in various programming languages, and currently, I am focusing on mastering C# language.🤖
+A collection of my problem-solving solutions from Beecrowd, primarily focusing on mastering C#.
 
-You can try to solve all problems in any language in the website bellow:
-https://www.beecrowd.com.br/judge/en/problems/all 🌐
+I'm currently dedicated to mastering the C# language and solving programming problems on Beecrowd. 🚀
 
-You need to have an account in the website above to see the descriptions of the problems that I solved in C#. ⚒️   
-The C# problems that I explain are in the "`Problems`" folder. 📁    
-The C# problems that I solved are in the "`VS-files`" folder. 📁  
-The Java (version 19.0.2) problems that I solved are in the "`Eclipse-files`" folder. 📁  
-It contains codes referring to the problems of the Beecrowd website. 💾 
+You can explore and attempt these problems on the [Beecrowd Problem List](https://www.beecrowd.com.br/judge/en/problems/all). Please note that problem descriptions require an account on the Beecrowd website. ⚙️
+
+## Repository Structure 📁
+
+- **Problems**: Contains descriptions of solved problems (account login required). 📝
+- **VS-files**: Solutions for C# problems. 💻
+- **Eclipse-files**: Solutions for Java (version 19.0.2) problems. ☕
+
+This repository serves as a collection of solutions to programming problems found on the Beecrowd platform. Happy coding! 💾
