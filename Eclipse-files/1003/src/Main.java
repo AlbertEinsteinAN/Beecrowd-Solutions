@@ -9,7 +9,8 @@ public class Main {
 		int a = sc.nextInt();
 		int b = sc.nextInt();
 		
-		System.out.println("Soma = " + (a + b));
+		System.out.println("SOMA = " + (a + b));
+		
+		sc.close();
 	}
-
 }
