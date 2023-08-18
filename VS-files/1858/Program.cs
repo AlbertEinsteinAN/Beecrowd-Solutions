@@ -24,7 +24,6 @@ namespace Beecrowd
                     minIndex = i;
                 }
             }
-
             Console.WriteLine(minIndex + 1);
         }
     }
