@@ -2,7 +2,7 @@
 
 A collection of my problem-solving solutions from Beecrowd, primarily focusing on mastering programming languages.
 
-I'm currently dedicated to mastering the C# and Java language and solving programming problems on Beecrowd. 🚀
+I'm currently dedicated to mastering the C# and Java languages and solving programming problems on Beecrowd. 🚀
 
 You can explore and attempt these problems on the [Beecrowd Problem List](https://www.beecrowd.com.br/judge/en/problems/all). Please note that problem descriptions require an account on the Beecrowd website. ⚙️
 
