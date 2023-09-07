@@ -8,7 +8,7 @@ You can explore and attempt these problems on the [Beecrowd Problem List](https:
 
 ## Repository Structure 📁
 
-- **Problems**: Contains descriptions of solved problems (account login required). 📝
+- **Problems**: Contains descriptions and orientation to solve the problems. 📝
 - **VS-files**: Solutions for C# problems. 💻
 - **Eclipse-files**: Solutions for Java (version 19.0.2) problems. ☕
 
